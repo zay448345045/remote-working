@@ -1,4 +1,4 @@
-# 说明
+# 说明（fork from mio4.github.io）
 
 - 本列表短网址：<https://anl.gg/remote>
 - 本列表主要用于整理中国国内的资源或者对国内受众友好的国外资源
